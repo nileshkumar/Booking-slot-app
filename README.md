@@ -1,24 +1,30 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application enables user to book slot for their cargo.
 
-Things you may want to cover:
+* Ruby version: ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-darwin21]
 
-* Ruby version
+* Rails version: Rails 7.0.4
 
-* System dependencies
+* Database: PostGreSQL
 
-* Configuration
+* Bootstrap version: ^5.2.3
 
-* Database creation
+* React: ^16.8.6
 
-* Database initialization
+* React Date-picker: ^4.8.0
 
-* How to run the test suite
+* Create DB: rails db:create
 
-* Services (job queues, cache servers, search engines, etc.)
+* Run migrations: rails db:migrate
 
-* Deployment instructions
+* To run the rails server with react: run  ./bin/dev 
 
-* ...
+* To run appication on browser: http://localhost:3000/
+
+* To run application on postman with GET, POST requests and parmeters: http://localhost:3000/api/v1/bookings 
+
+
+
+
+
