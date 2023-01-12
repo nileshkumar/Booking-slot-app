@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cargo_name: MyString
+  start: 2023-01-03 01:30:30
+  end: 2023-01-03 01:30:30
+  duration: 1
+
+two:
+  cargo_name: MyString
+  start: 2023-01-03 01:30:30
+  end: 2023-01-03 01:30:30
+  duration: 1
